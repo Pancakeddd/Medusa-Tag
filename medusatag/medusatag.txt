@@ -1,0 +1,8 @@
+"Medusa Tag"
+{
+	"base"	"base"
+	"title" "Medusa Tag"
+	"maps"	"^mtag_"
+	"menusystem"	"1"
+	"workshopid" 	""
+}
